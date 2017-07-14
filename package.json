@@ -1,0 +1,14 @@
+{
+  "name": "clean-forks",
+  "version": "0.0.1",
+  "description": "Tiny script for cleaning forks data",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Oleh Kuchuk",
+  "license": "Apache2",
+  "dependencies": {
+    "debug": "^2.6.8",
+    "github-api": "^3.0.0",
+    "minimist": "^1.2.0"
+  }
+}
