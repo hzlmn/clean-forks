@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const Github = require('github-api')
-const debug = require('debug')('clean-fork')
+const debug = require('debug')('clean-forks')
 const argv = require('minimist')(process.argv.slice(2))
 
 /**
